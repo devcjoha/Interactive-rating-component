@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code](https://github.com/devcjoha/results-summary-component-main)
+- Solution URL: [Code](https://github.com/devcjoha/Interactive-rating-component)
 - Website URL: [Deploy] [here](https://interactive-rating-frontendm.netlify.app/)
 
 ## My process
@@ -50,9 +50,6 @@ Users should be able to:
 <img src="./assets/js.svg" alt="html" width="50px" />
 <img src="./assets/netlify.svg" alt="html" width="50px" />
 <img src="./assets/github.svg" alt="html" width="50px" />
-
-
-
 
 
 ### What I learned
