@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code](https://github.com/devcjoha/results-summary-component-main)
+- Solution URL: [Code](https://github.com/devcjoha/Interactive-rating-component)
 - Website URL: [Deploy] [here](https://interactive-rating-frontendm.netlify.app/)
 
 ## My process
@@ -90,8 +90,6 @@ Improved Form Validation: Using native HTML validation features instead of a sim
 - Website - [Carla Johanna](https://github.com/devcjoha)
 - Frontend Mentor - [@devcjoha](https://www.frontendmentor.io/profile/yourusername)
 - X - [@CarlitaJohanna](https://www.x.com/carlitajohana)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
