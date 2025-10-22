@@ -96,6 +96,10 @@ h1 {
   background-color: var(--Orange-500);
   color: var(--Grey-950);
 }
+.rating-btn.active{
+  background-color: var(--White);
+  color: var(--Grey-950);
+}
 .rating-submit-button {
   border-radius: 40px;
   background-color: var(--Orange-500);
@@ -135,10 +139,11 @@ h1 {
   line-height: 1.5rem;
 }
 .attribution {
-  position: absolute;
-  bottom: 10rem;
+  /* position: absolute; */
+  margin: 10px;
   font-size: 11px;
   color: var(--Grey-500);
+display: flex;  
 }
 /* Responsive Design */
 @media (max-width: 400px) {
